@@ -1,6 +1,6 @@
 <!-- TITLE & ANIMATION -->
 <h1 align="center" style="font-size: 48px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1500&color=00B4D8&width=700&lines=👋+Hi%2C+I'm+Charles+Alchemy;Principal+Software+Engineer+%7C+Full-Stack+%26+AI;Building+Scalable+Intelligent+Systems..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1500&color=00B4D8&width=700&lines=👋+Hi%2C+I'm+Shaman+Cloud;Principal+Software+Engineer+%7C+Full-Stack+%26+AI;Building+Scalable+Intelligent+Systems..." alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
