@@ -18,7 +18,7 @@
 - 🤖 Integrating **LLMs, agents, and ML pipelines** into real-world products
 - 💬 Ask me about: `System Design`, `Backend APIs`, `Full-Stack Apps`, `AI Integration`
 - 📫 Contact: **coolshark.tech@gmail.com**
-- 🧬 GitHub: [charles-alchemcy](https://github.com/shaman-cloud)
+- 🧬 GitHub: [shaman-cloud](https://github.com/shaman-cloud)
 
 ---
 
@@ -142,9 +142,9 @@
 
 ### 🛰️ Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/charles-alchemcy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/charles_alchemcy"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white"/></a>
-  <a href="mailto:charlesdevalchemy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/shaman-cloud"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/shaman-cloud"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white"/></a>
+  <a href="mailto:coolshark.tech@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -160,4 +160,4 @@
 ---
 
 ⭐ *Building intelligence, one model at a time.*  
-— **Charles Alchemy** 🧠
+— **Shaman Cloud** 🧠
